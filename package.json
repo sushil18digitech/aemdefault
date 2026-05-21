@@ -26,5 +26,11 @@
     "eslint-plugin-import": "2.32.0",
     "stylelint": "17.11.0",
     "stylelint-config-standard": "40.0.0"
+  },
+  "dependencies": {
+    "@adobe/adobe-client-data-layer": "^3.0.1",
+    "@adobe/commerce-events-collectors": "^0.0.0-b0e9ee788f86104fc458c6cba356cb515c3f1ba6",
+    "@adobe/commerce-events-sdk": "^0.0.0-bfa1926089508e4a3c2a5b117be30ffeab793f19",
+    "@adobe/magento-storefront-event-collector": "^1.17.0"
   }
 }
